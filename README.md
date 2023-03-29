@@ -1,3 +1,11 @@
+# Digi-Kunst 
+
+Wir benutzen GitHub, um die Informationen für die Handreichung für die Einlieferenden an den Partnerhochschulen bereitzustellen.
+
+Hier werden die Inhalte gepflegt. Die veröffentliche Webseite ist über <https://digi-kunst.github.io/Handreichung/> erreichbar.
+
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
