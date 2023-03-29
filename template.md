@@ -1,13 +1,7 @@
 ---
-title: template
 layout: home
-sorting: Sortierung im Inhaltsverzeichnis, "it010203" entspräche 1.2.3
-webtoc: Optional, ob für das gesamte Markdown-Dokument ein weiteres TOC angezeigt werden soll. Sinnvoll bei großen Dokumenten [true/false]
-draft: false
-authors:
-  - max.mustermann (wird aus content/autoren geladen)
-downloads:
-  - example (wird aus content/downloads geladen)
+title: template
+nav_exclude: true
 ---
 
 # Erste Überschrift
