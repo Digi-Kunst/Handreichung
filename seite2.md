@@ -1,6 +1,8 @@
 ---
 title: Seite 2
-sorting: 010200 #Sortierung im Inhaltsverzeichnis, "it010203" entspräche 1.2.3 #klappt?
+layout: home
+nav_exclude: true
+
 ---
 
 # Erste Überschrift

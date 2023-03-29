@@ -1,5 +1,5 @@
 ---
-title: Handreichung | Digi-Kunst.nrw
+title: Handreichung
 layout: home
 ---
 
@@ -33,7 +33,7 @@ Wir empfehlen, eine Inventarliste der digitalen Inhalte und der aktuellen Speich
 - Gängige Dateiformate und deren Langzeitstabilität – [lzv.nrw](https://www.lzv.nrw/dateiformate/) 
 - NDSA Levels of Digital Preservation Matrix: Schritte zum Sichern digitaler Inhalte – [deutsche Übersetzung](https://osf.io/3na96)
 
-## Digi-Kunst Datenmodellierung 
+### Digi-Kunst Datenmodellierung 
 
 Informationen dazu, wie die heterogenen Informationen der unterschiedlichen Einliefernden miteinander integriert werden, und in welchen Entitäten und Attributen die einzelnen Metadaten erfasst und verfügbar gemacht werden, und zu den von uns entwickelten Taxonomien und Verschlagwortungssystemen.
 

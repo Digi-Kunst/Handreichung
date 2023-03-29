@@ -4,5 +4,11 @@ theme: just-the-docs
 
 url: https://digi-kunst.github.io/Handreichung/
 
-aux_links:
-  Template Repository: https://github.com/Digi-Kunst/Handreichung
+aux_links: #oben rechts
+  GitHub: https://github.com/Digi-Kunst/Handreichung
+
+# External navigation links
+nav_external_links:
+  - title: Digi-Kunst.nrw
+    url: https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/
+    hide_icon: true # set to true to hide the external link icon - defaults to false
