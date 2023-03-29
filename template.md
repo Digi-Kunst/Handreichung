@@ -1,5 +1,6 @@
 ---
-title: Browser-Titel des Inhalts
+title: template
+layout: home
 sorting: Sortierung im Inhaltsverzeichnis, "it010203" entspräche 1.2.3
 webtoc: Optional, ob für das gesamte Markdown-Dokument ein weiteres TOC angezeigt werden soll. Sinnvoll bei großen Dokumenten [true/false]
 draft: false

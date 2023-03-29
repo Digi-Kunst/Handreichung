@@ -8,24 +8,25 @@ layout: home
 Hier stellen wir demnächst Inhalte zu folgenden Themen zur Verfügung:
 
 ### Digi-Kunst Pflichtfelder für Metadaten:
-	- Titel
-	- Projektkategorie
-	- Schlagwörter zu Genre und Inhalt
-	- inhaltliche Beschreibung
-	- Personen und deren Rollen
-	- Datum und dazugehöriges Ereignis
-	- Rechteangaben
+- Titel
+- Projektkategorie
+- Schlagwörter zu Genre und Inhalt
+- inhaltliche Beschreibung
+- Personen und deren Rollen
+- Datum und dazugehöriges Ereignis
+- Rechteangaben
 
 Dies sind die absoluten Mindestanforderungen. Wenn sie diese Informationen bisher noch nicht strukturiert an einer Stelle sammeln, können sie dazu ein demnächst bereitgestelltes Excel-Formular benutzen. 
 
 Sie werden wahrscheinlich sehr viel mehr Metadaten einliefern wollen. Die volle Anzahl der im System angelegten Felder wird später an dieser Stelle dokumentiert werden.
 
-### Entwürfe zu Archivrichtlinie, Einverständniserklärung, Rechteklärung
-
-Kommen demnächst
+### Entwürfe zu 
+- Archivrichtlinie
+- Einverständniserklärung
+- Rechteklärung
 
 ### Empfehlungen zu Software
-Wir empfehlen, eine Inventarliste der digitalen Inhalte und der aktuellen Speicherorte anzulegen. (Todo)
+Wir empfehlen, eine Inventarliste der digitalen Inhalte und der aktuellen Speicherorte anzulegen. 
 
 ### Links
 
@@ -39,5 +40,5 @@ Informationen dazu, wie die heterogenen Informationen der unterschiedlichen Einl
 
 
 ---
- [Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | zuletzt aktualisiert: 2023-03-29
+ Kontakt: [Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | zuletzt aktualisiert: 2023-03-29
 
