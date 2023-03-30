@@ -8,15 +8,15 @@ layout: home
 Hier stellen wir demnächst Inhalte zu folgenden Themen zur Verfügung:
 
 ### Vorbereitende Arbeiten zur Datenerfassung
-Wir empfehlen, jetzt schon einige grundlegende Schritte durchzuführen. Diese entsprechen den Ebenen 1 und 2 in der NDSA-Levels of Digital Preservation Matrix (siehe unten):
+Wir empfehlen, jetzt schon einige grundlegende Schritte durchzuführen. 
 
-- Dateien **vor Verlust sichern**. Sie sollten mindestens zwei, besser drei Kopien der (Medien-)Daten haben. Am besten auf unterschiedlichen Speichermedien, an unterschiedlichen Orten.
-- Wir empfehlen, eine **Inventarliste** der digitalen Inhalte und der aktuellen Speicherorte anzulegen, um jederzeit einen Überblick zu haben. Auf Windows kann dafür [abeMeda](https://www.abemeda.com/) benutzt werden. Für Mac OS empfiehlt sich [NeoFinder](https://cdfinder.de/). Diese Programme erstellen detaillierte Kataloge der Inhalte von Datenträgern. Sie sollten nicht benutzt werden, um die Inhalte selbst zu manipulieren.	
-- Sorgen sie bitte dafür, dass mindestens folgende  **Metadaten** vorhanden sind. 
+- Dateien **vor Verlust sichern**. Sie sollten mindestens zwei, besser drei Kopien ihrer (Medien-)Daten haben. Am besten auf unterschiedlichen Speichermedien, an unterschiedlichen Orten.
+- Wir empfehlen, eine **Inventarliste** der digitalen Inhalte und der aktuellen Speicherorte anzulegen, um einen Überblick zu gewinnen. Auf Windows kann dafür [abeMeda](https://www.abemeda.com/) benutzt werden. Für Mac OS empfiehlt sich [NeoFinder](https://cdfinder.de/). Diese Programme erstellen detaillierte Kataloge der Inhalte von Datenträgern. 
+- Sorgen sie bitte dafür, dass mindestens folgende  **Metadaten** vorhanden sind: 
 
-### Pflichtfelder für Metadaten:
+### Pflichtfelder für Metadaten
 - Titel des Werks oder Projekts
-- Projektkategorie. (Dazu wurde eine Taxonomie aller Kunst-Gattungen und Unterkategorien erstellt. Man muss mindestens eine und kann unbegrenzt viele Kategorien zuweisen.) 
+- Projektkategorie (dazu wurde eine Taxonomie aller Kunst-Gattungen und Unterkategorien erstellt. Man muss mindestens eine Kategorie zuweisen, die Anzahl ist aber unbegrenzt) 
 - Schlagwörter zu Genre und Inhalt (kontrolliertes Vokabular mit Verweisen auf Wikidata und GND)
 - inhaltliche Beschreibung im Freitext
 - Personen und deren Rollen
@@ -35,8 +35,8 @@ Die volle Anzahl der im System angelegten Metadaten-Felder wird später an diese
 
 ### Links
 
-- Übersicht von gängigen Dateiformaten und deren Langzeitstabilität – [lzv.nrw](https://www.lzv.nrw/dateiformate/) 
-- Schritte zum Sichern digitaler Inhalte: NDSA Levels of Digital Preservation Matrix – [deutsche Übersetzung](https://osf.io/3na96)
+-  [Übersicht von gängigen Dateiformaten und deren Langzeitstabilität](https://www.lzv.nrw/dateiformate/) (lzv.nrw)
+- Schritte zum Sichern digitaler Inhalte: NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96). Hier finden sie weiterführende Informationen zu den oben erwähnten grundlegenden Schritten.
 	
 
 ### Digi-Kunst Datenmodellierung 
@@ -46,5 +46,4 @@ Später werden wir an dieser Stelle Informationen dazu bereitstellen, wie die he
 
 
 ---
- Kontakt: [Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | zuletzt aktualisiert: 2023-03-29
-
+ Kontakt: [Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | zuletzt aktualisiert: 2023-03-30
