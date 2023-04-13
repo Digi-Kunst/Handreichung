@@ -25,7 +25,7 @@ Bevor im Herbst mit der Erfassung der Daten begonnen werden kann, empfehlen wir,
 | Rechteangaben |Liegt eine Einverständniserklärung der Rechteinhaber zur Übernahme in das Archiv, auf Wunsch auch zur Veröffentlichung im Netz vor? Wir stellen unter dem Punkt **Vorlagen** demnächst einen Entwurf für eine Erklärung bereit. |
 
 
-Die obige Tabelle stellt dar, welche Informationen schon vor Beginn der formellen Erfasssung bereits jetzt gesammelt und  zusammengeführt werden können, besonders wenn diese bisher nicht (oder nicht alle) strukturiert erfasst wurden. Wenn an ihrer Hochschule noch kein System dafür vorhanden ist, können sie dafür dieses einfache tabellarische [Formular](./assets/2023-04-13-erste-Datenerfassung-Digi-Kunst.xlsx) benutzen.
+Die obige Tabelle stellt dar, welche Informationen schon vor Beginn der formellen Erfasssung bereits jetzt gesammelt und  zusammengeführt werden können, besonders wenn diese bisher nicht (oder nicht alle) strukturiert erfasst wurden. Wenn an ihrer Hochschule noch kein System dafür vorhanden ist, können sie dafür dieses einfache tabellarische [Formular](./assets/2023-04-13-Datenaufbereitung-Digi-Kunst.xlsx) benutzen.
 
 Selbstverständlich kann das Formular auch benutzt werden, über diese Mindestanforderungen hinaus alle weiteren relevanten Metadaten zu sammeln und festzuhalten.
 
