@@ -31,11 +31,12 @@ Selbstverständlich kann das Formular auch benutzt werden, über diese Mindestan
 
 Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Punkt [Datenmodellierung](https://digi-kunst.github.io/Handreichung/#digi-kunst-datenmodellierung). Die volle Anzahl der im System angelegten Metadaten-Felder wird später an dieser Stelle dokumentiert werden. 
 
-### Vorlagen zur Klärung rechtlicher Fragen (in Vorbereitung) 
-Demnächst finden sich hier Vorlagen für folgende Formulare zu rechtlichen Fragen:
+### Vorlagen (in Vorbereitung) 
+
+Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhaberschaft, Miturheber:innen und Rechten Dritter (Fremdmaterial), u.a.:
 - Einverständnis- und Übernahmeerklärung
 - Rechteklärung
-- Archivrichtlinie der Hochschule
+- Hinweise zur Erstellung von Archivrichtlinen an den Partnerhochschulen
 
 
 ### Weiterführende Lektüre
