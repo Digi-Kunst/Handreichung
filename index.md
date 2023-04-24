@@ -41,7 +41,7 @@ Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhabersc
 ### Weiterführende Lektüre
 
 - Nicht alle Dateitypen sind langzeitstabil. Hier findet sich eine [Übersicht von gängigen Dateiformaten und deren Langzeitstabilität](https://www.lzv.nrw/dateiformate/) (lzv.nrw). 
-- Schritte zum Sichern digitaler Inhalte: Die  NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96) gibt weiterführende Informationen zu den oben erwähnten grundlegenden Schritten.
+- Die  NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96) gibt weiterführende Informationen zu den oben erwähnten grundlegenden Schritten zum Sichern digitaler Inhalte.
 	
 
 ### Digi-Kunst Datenmodellierung 
