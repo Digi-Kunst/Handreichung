@@ -26,7 +26,7 @@ Bevor im Herbst mit der Erfassung der Daten begonnen werden kann, empfehlen wir,
 
 Die obige Tabelle stellt dar, welche Informationen schon vor Beginn der formellen Erfasssung bereits jetzt gesammelt und  zusammengeführt werden können, besonders wenn diese bisher nicht (oder nicht alle) strukturiert erfasst wurden. Wenn an Ihrer Hochschule noch kein System dafür vorhanden ist, können Sie dafür dieses einfache tabellarische [Formular](./assets/2023-04-13-Datenaufbereitung-Digi-Kunst.xlsx) benutzen.
 
-Selbstverständlich kann das Formular auch benutzt werden, über diese Mindestanforderungen hinaus alle weiteren relevanten Metadaten zu sammeln und festzuhalten.
+Selbstverständlich kann das Formular auch nach Bedarf erweitert werden, um über diese Mindestanforderungen hinaus alle weiteren relevanten Metadaten zu sammeln und festzuhalten.
 
 Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Punkt [Datenmodellierung](https://digi-kunst.github.io/Handreichung/#digi-kunst-datenmodellierung). Die volle Anzahl der im System angelegten Metadaten-Felder wird später an dieser Stelle dokumentiert werden. 
 
@@ -41,7 +41,7 @@ Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhabersc
 ### Weiterführende Lektüre
 
 - Nicht alle Dateitypen sind langzeitstabil. Hier findet sich eine [Übersicht von gängigen Dateiformaten und deren Langzeitstabilität](https://www.lzv.nrw/dateiformate/) (lzv.nrw). 
-- Schritte zum Sichern digitaler Inhalte: NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96). Hier finden Sie weiterführende Informationen zu den oben erwähnten grundlegenden Schritten.
+- Schritte zum Sichern digitaler Inhalte: Die  NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96) gibt weiterführende Informationen zu den oben erwähnten grundlegenden Schritten.
 	
 
 ### Digi-Kunst Datenmodellierung 
@@ -59,4 +59,4 @@ Das Digi-Kunst-Archiv ist ereignisbasiert angelegt und kann, wie im [Bericht des
 ---
 Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) oder [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
 
-[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-04-13
+[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-04-24
