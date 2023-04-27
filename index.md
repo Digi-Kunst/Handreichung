@@ -24,9 +24,9 @@ Bevor im Herbst mit der Erfassung der Daten begonnen werden kann, empfehlen wir,
 | Akteur:innen und deren Rollen | Jedem Ereignis sollte idealerweise mindestens ein:e Akteur:in zugeordnet sein. Das sind meistens Personen, können aber auch Künstlergruppen oder Körperschaften sein. Diese werden mindestens mit vollständigem Namen und (wo vorhanden) Geburtsdatum beschrieben. Personen haben im Rahmen eines Ereignisses mindestens eine Rolle inne (z.B. beim Ereignis *Herstellung* die Rolle *Künstler:in*, bei einer *Aufführung* die Rolle *Interpret:in*, usw.). Bis wir eine Auswahlliste von möglichen Rollen bereitstellen können, bitten wir darum, in ihren eigenen Worten diesbezügliche Informationen festzuhalten.  |
 | Rechteangaben |Liegt eine Einverständniserklärung der Rechteinhaber zur Übernahme in das Archiv, auf Wunsch auch zur Veröffentlichung im Netz vor? Wir stellen unter dem Punkt **Vorlagen** demnächst einen Entwurf für eine Erklärung bereit.|
 
-Die obige Tabelle stellt dar, welche Informationen schon vor Beginn der formellen Erfasssung bereits jetzt gesammelt und  zusammengeführt werden können, besonders wenn diese bisher nicht (oder nicht alle) strukturiert erfasst wurden. Wenn an Ihrer Hochschule noch kein System dafür vorhanden ist, können Sie dafür dieses einfache tabellarische [Formular](./assets/2023-04-26-Datenaufbereitung-Digi-Kunst.xlsx) benutzen.
+Die obige Tabelle stellt dar, welche Informationen schon vor Beginn der formellen Erfasssung bereits jetzt gesammelt und  zusammengeführt werden können, besonders wenn diese bisher nicht (oder nicht alle) strukturiert erfasst wurden. Als Hilfestellung kann [dieses einfache tabellarische Formular](./assets/2023-04-26-Datenaufbereitung-Digi-Kunst.xlsx) benutzt werden. Es enthält zusätzlich einige Beispieldatensätze.
 
-Selbstverständlich kann das Formular auch nach Bedarf erweitert werden, um über diese Mindestanforderungen hinaus alle weiteren relevanten Metadaten zu sammeln und festzuhalten.
+Selbstverständlich kann das Formular auch nach Bedarf erweitert werden, um über die Mindestanforderungen hinaus alle weiteren relevanten Metadaten zu sammeln und festzuhalten.
 
 Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Punkt [Datenmodellierung](https://digi-kunst.github.io/Handreichung/#digi-kunst-datenmodellierung). Die volle Anzahl der im System angelegten Metadaten-Felder wird später an dieser Stelle dokumentiert werden. 
 
@@ -46,7 +46,7 @@ Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhabersc
 
 ### Digi-Kunst Datenmodellierung 
 
-Dieses [Diagramm](./assets/2023-04-18_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Informationen der unterschiedlichen Einliefernden in ein logisches Verhältnis zueinander gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
+Dieses [Diagramm](./assets/2023-04-18_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
 
 Im Zentrum steht das *Projekt*, meistens ein künstlerisches Werk. Das Projekt muss einen Titel haben, es lässt sich kategorisieren und inhaltlich beschreiben.  
 
@@ -59,4 +59,4 @@ Das Digi-Kunst-Archiv ist ereignisbasiert angelegt und kann, wie im [Bericht des
 ---
 Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) oder [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
 
-[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-04-24
+[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-04-26
