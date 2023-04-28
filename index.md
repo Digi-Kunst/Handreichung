@@ -46,11 +46,11 @@ Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhabersc
 
 ### Digi-Kunst Datenmodellierung 
 
-Dieses [Diagramm](./assets/2023-04-18_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
+Dieses [Diagramm](./assets/2023-04-28_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
 
 Im Zentrum steht das *Projekt*, meistens ein künstlerisches Werk. Das Projekt muss einen Titel haben, es lässt sich kategorisieren und inhaltlich beschreiben.  
 
-Die mit dem Projekt verbundenen weiteren Informationen, wie z.B. Personen speichern wir in der Entität *Akteure* separat ab. Dadurch müssen wir diese Informationen nur einmal eingeben und später nur noch darauf verweisen. So vermeidet man Redundanzen und minimiert Fehler, z.B. leicht anders geschriebene Namen. 
+Die mit dem Projekt verbundenen weiteren Informationen, wie z.B. Personen speichern wir über das verbindende Element *Ereignisse* in der Entität *Akteure* separat ab. Dadurch müssen wir diese Informationen nur einmal eingeben und später nur noch darauf verweisen. So vermeidet man Redundanzen und minimiert Fehler, z.B. leicht anders geschriebene Namen. 
 
 Eine weitere wichtige Entität sind die *digitalen Objekte* oder Dateien. Diese sind entweder durch Retrodigitalisierung aus physischen Medien entstanden, oder sie sind *born digital*. Weitere Entitäten, teilweise noch in der Planung begriffen, lassen sich aus dem Diagramm ablesen.
 
