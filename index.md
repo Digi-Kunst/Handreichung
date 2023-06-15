@@ -30,12 +30,13 @@ Selbstverständlich kann das Formular auch nach Bedarf erweitert werden, um übe
 
 Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Punkt [Datenmodellierung](https://digi-kunst.github.io/Handreichung/#digi-kunst-datenmodellierung). Die volle Anzahl der im System angelegten Metadaten-Felder wird später an dieser Stelle dokumentiert werden. 
 
-### Vorlagen (in Vorbereitung) 
+### Vorlagen
 
-Demnächst finden sich hier Vorlagen zur Klärung von Fragen zur Rechteinhaberschaft, Miturheber:innen und Rechten Dritter (Fremdmaterial), u.a.:
-- Einverständnis- und Übernahmeerklärung
-- Rechteklärung
-- Hinweise zur Erstellung von Archivrichtlinen an den Partnerhochschulen
+- [Entwurf einer Archiv-Leitlinie für Digi-Kunst.nrw.
+](./assets/2023-06-07_Archiv-Leitlinie_Digi-Kunst.nrw_Entwurf.pdf) Unsere Empfehlungen zu Definitionen und Grundsätzen zur Unterstützung bei der Erstellung einer eigenen Archivordnung.
+
+Demnächst finden sich hier zusätzlich Vorlagen zur Klärung von Fragen zu Nutzungsrechten und Lizenzierung, ebenso wie zu  Rechteinhaberschaft, Miturheber:innen und Rechten Dritter (Rechteklärung Fremdmaterial).
+
 
 
 ### Weiterführende Lektüre
@@ -54,9 +55,9 @@ Die mit dem Projekt verbundenen weiteren Informationen, wie z.B. Personen speich
 
 Eine weitere wichtige Entität sind die *digitalen Objekte* oder Dateien. Diese sind entweder durch Retrodigitalisierung aus physischen Medien entstanden, oder sie sind *born digital*. Weitere Entitäten lassen sich aus dem Diagramm ablesen.
 
-Das Digi-Kunst-Archiv kann, wie im [Bericht des Vorprojekts](https://www.dh.nrw/kooperationen/Digi-Kunst.nrw%20%28Vorprojekt%29-63) erwähnt, in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden.
+Das Digi-Kunst-Archiv wird, wie im [Bericht des Vorprojekts](https://www.dh.nrw/kooperationen/Digi-Kunst.nrw%20%28Vorprojekt%29-63) erwähnt, in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können.
 
 ---
-Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) oder [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
+Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) und [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
 
-[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-06-05
+[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-06-15
