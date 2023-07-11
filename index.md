@@ -17,7 +17,7 @@ Bevor im Herbst 2023 mit der Erfassung der Daten begonnen werden kann, empfehlen
 |:--------|:--------|
 | Titel | Jedes Werk oder Projekt muss mindestens einen Titel haben. |
 | Projektkategorie | Zur Klassifikation wird im späteren Erfassungs-Formular eine Taxonomie aller Kunst-Gattungen und deren Unterkategorien bereitgestellt, aus der Einträge ausgewählt werden können. Beispiele: *Kunst/Videokunst/Videoinstallation*, oder *Musik/Tanzmusik*. Man muss mindestens eine und kann beliebig viele Kategorien zuweisen. Bis das Erfassungs-Formular verfügbar ist, bitten wir darum, auf anderem Weg diesbezügliche Informationen festzuhalten. | 
-| Schlagwörter zu Genre und Inhalt | Es wird die Funktion geben, Projekte über die Projektkategorie hinaus inhaltlich zu erschließen. Beispiel: Ein Projekt wurde bereits als *Musik/	Klassische Musik	/Bühnenmusik* klassifiziert und bekommt zur weiteren Beschreibung die Schlagwörter *[Oper](https://www.wikidata.org/wiki/Q1344)* und (aufgrund z.B. einer thematischen Ausrichtung) *[griechische Mythologie](https://www.wikidata.org/wiki/Q34726)* zugewiesen. Durch durch Verweise auf Wikidata, ein externes kontrolliertes Vokabular, werden automatisch Synonyme und Definitionen ausgelesen und abgespeichert. |
+| Schlagwörter zu Genre und Inhalt | Es wird die Funktion geben, Projekte über die Projektkategorie hinaus inhaltlich zu erschließen. Beispiel: Ein Projekt wurde bereits als *Musik/	Klassische Musik	/Bühnenmusik* klassifiziert und bekommt zur weiteren Beschreibung die Schlagwörter *[Oper](https://www.wikidata.org/wiki/Q1344)* und (aufgrund z.B. einer thematischen Ausrichtung) *[griechische Mythologie](https://www.wikidata.org/wiki/Q34726)* zugewiesen. Durch Verweise auf Wikidata, ein externes kontrolliertes Vokabular, werden automatisch Synonyme und Definitionen ausgelesen und abgespeichert. |
 | Inhaltliche Beschreibung im Freitext           | Bitte geben Sie an dieser Stelle alle weiteren, ggf. unstrukturierten Informationen an, die benötigt werden, um ihre Archivalien Dritten zu erschließen.    | 
 |Ereignisse| Projekte sind mit Ereignissen verbunden. Beispiele: *Aufführung, Ausstellung, Konzert, Bearbeitung.* Wenn nichts Genaueres bekannt ist, kann man einem Werk meistens zumindest das Ereignis *Herstellung* zuweisen.|
 |Datum | Zeitpunkt oder Zeitraum, in dem Ereignisse stattgefunden haben. |
@@ -47,7 +47,7 @@ Demnächst finden sich hier zusätzlich Vorlagen zur Klärung von Fragen zu Nutz
 
 ### Digi-Kunst Datenmodellierung 
 
-Dieses [Diagramm](./assets/2023-05-11_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
+Dieses [Diagramm](./assets/2023-06-23_Skizze_Datenmodellierung.pdf) zeigt, wie im Digi-Kunst-Archiv die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
 
 Im Zentrum steht das *Projekt*, meistens ein künstlerisches Werk. Das Projekt muss einen Titel haben, es lässt sich kategorisieren und inhaltlich beschreiben.  
 
@@ -60,4 +60,4 @@ Das Digi-Kunst-Archiv wird, wie im [Bericht des Vorprojekts](https://www.dh.nrw/
 ---
 Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) und [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
 
-[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-06-15
+[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-07-11
